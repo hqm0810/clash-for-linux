@@ -1,0 +1,784 @@
+2025/01/13 Mon 21:00:14.801483 [2644 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/01/13 Mon 21:00:14.803332 [2644 10739128][INFO] Reading preference settings...
+2025/01/13 Mon 21:00:14.821435 [2644 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/01/13 Mon 21:00:14.821771 [2644 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/01/13 Mon 21:00:14.821947 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/01/13 Mon 21:00:14.822094 [2644 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/01/13 Mon 21:00:14.822658 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/01/13 Mon 21:00:14.823445 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/01/13 Mon 21:00:14.823683 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/01/13 Mon 21:00:14.823939 [2644 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 21:00:14.824063 [2644 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 21:00:14.824199 [2644 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 21:00:14.824312 [2644 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 21:00:14.824417 [2644 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 21:00:14.824516 [2644 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 21:00:14.824614 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/01/13 Mon 21:00:14.824722 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/01/13 Mon 21:00:14.824855 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/01/13 Mon 21:00:14.824997 [2644 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/01/13 Mon 21:00:14.825238 [2644 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/01/13 Mon 21:00:14.825353 [2644 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/01/13 Mon 21:00:14.825413 [2644 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/01/13 Mon 21:00:14.825479 [2644 10739128][INFO] Reading generator configuration...
+2025/01/13 Mon 21:00:14.825539 [2644 10739128][INFO] Read generator configuration completed.
+
+2025/01/13 Mon 21:00:14.825564 [2644 10739128][INFO] Generating all artifacts...
+2025/01/13 Mon 21:00:14.825584 [2644 10739128][INFO] Generating artifact 'test'...
+2025/01/13 Mon 21:00:14.825652 [2644 10739128][VERB] Imported 0 item(s).
+2025/01/13 Mon 21:00:14.825719 [2644 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/01/13 Mon 21:00:14.827131 [2644 10739128][VERB] Received Link.
+2025/01/13 Mon 21:00:14.827195 [2644 10739128][VERB] Parsing configuration file data...
+2025/01/13 Mon 21:00:14.832037 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832090 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832125 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832147 [2644 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/01/13 Mon 21:00:14.832170 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832191 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832213 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832235 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832256 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832278 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832300 [2644 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/01/13 Mon 21:00:14.832322 [2644 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/01/13 Mon 21:00:14.832344 [2644 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/01/13 Mon 21:00:14.832366 [2644 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832388 [2644 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832410 [2644 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832432 [2644 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/01/13 Mon 21:00:14.832454 [2644 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/01/13 Mon 21:00:14.832476 [2644 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/01/13 Mon 21:00:14.832502 [2644 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/01/13 Mon 21:00:14.832524 [2644 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832546 [2644 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832567 [2644 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832589 [2644 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832612 [2644 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832633 [2644 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832655 [2644 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/01/13 Mon 21:00:14.832677 [2644 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832699 [2644 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832721 [2644 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/01/13 Mon 21:00:14.832743 [2644 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/01/13 Mon 21:00:14.832765 [2644 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/01/13 Mon 21:00:14.832786 [2644 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/01/13 Mon 21:00:14.832808 [2644 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/01/13 Mon 21:00:14.832831 [2644 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832856 [2644 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/01/13 Mon 21:00:14.832878 [2644 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/01/13 Mon 21:00:14.832899 [2644 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/01/13 Mon 21:00:14.832934 [2644 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832956 [2644 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.832979 [2644 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833004 [2644 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833027 [2644 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833097 [2644 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833121 [2644 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833143 [2644 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/01/13 Mon 21:00:14.833165 [2644 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/01/13 Mon 21:00:14.833187 [2644 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833209 [2644 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833231 [2644 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/01/13 Mon 21:00:14.833249 [2644 10739128][VERB] Filter done.
+2025/01/13 Mon 21:00:14.833921 [2644 10739128][INFO] Generate target: Clash
+2025/01/13 Mon 21:00:14.864631 [2644 10739128][INFO] Generate completed.
+2025/01/13 Mon 21:00:14.869431 [2644 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/01/13 Mon 21:00:14.869488 [2644 10739128][INFO] Generating artifact 'test_profile'...
+2025/01/13 Mon 21:00:14.869554 [2644 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/01/13 Mon 21:00:14.869598 [2644 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/01/13 Mon 21:00:14.869706 [2644 10739128][VERB] Imported 0 item(s).
+2025/01/13 Mon 21:00:14.869789 [2644 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/01/13 Mon 21:00:14.871248 [2644 10739128][VERB] Received Link.
+2025/01/13 Mon 21:00:14.871394 [2644 10739128][INFO] Generate target: Clash
+2025/01/13 Mon 21:00:14.889277 [2644 10739128][INFO] Generate completed.
+2025/01/13 Mon 21:00:14.890050 [2644 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/01/13 Mon 21:00:14.890088 [2644 10739128][INFO] All artifact generated. Exiting...
+2025/01/13 Mon 22:18:47.925896 [6195 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/01/13 Mon 22:18:47.927616 [6195 10739128][INFO] Reading preference settings...
+2025/01/13 Mon 22:18:47.944708 [6195 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/01/13 Mon 22:18:47.945290 [6195 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/01/13 Mon 22:18:47.945487 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/01/13 Mon 22:18:47.945632 [6195 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/01/13 Mon 22:18:47.946104 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/01/13 Mon 22:18:47.946309 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/01/13 Mon 22:18:47.946447 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/01/13 Mon 22:18:47.946596 [6195 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 22:18:47.946732 [6195 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 22:18:47.946865 [6195 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 22:18:47.946995 [6195 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 22:18:47.947197 [6195 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 22:18:47.947524 [6195 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/01/13 Mon 22:18:47.947714 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/01/13 Mon 22:18:47.947932 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/01/13 Mon 22:18:47.948220 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/01/13 Mon 22:18:47.948457 [6195 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/01/13 Mon 22:18:47.948707 [6195 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/01/13 Mon 22:18:47.949101 [6195 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/01/13 Mon 22:18:47.949298 [6195 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/01/13 Mon 22:18:47.949470 [6195 10739128][INFO] Reading generator configuration...
+2025/01/13 Mon 22:18:47.949582 [6195 10739128][INFO] Read generator configuration completed.
+
+2025/01/13 Mon 22:18:47.949622 [6195 10739128][INFO] Generating all artifacts...
+2025/01/13 Mon 22:18:47.949657 [6195 10739128][INFO] Generating artifact 'test'...
+2025/01/13 Mon 22:18:47.949772 [6195 10739128][VERB] Imported 0 item(s).
+2025/01/13 Mon 22:18:47.949902 [6195 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/01/13 Mon 22:18:47.952576 [6195 10739128][VERB] Received Link.
+2025/01/13 Mon 22:18:47.953024 [6195 10739128][VERB] Parsing configuration file data...
+2025/01/13 Mon 22:18:47.959219 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959295 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959323 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959351 [6195 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/01/13 Mon 22:18:47.959379 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959407 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959434 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959461 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959488 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959515 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959555 [6195 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/01/13 Mon 22:18:47.959583 [6195 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/01/13 Mon 22:18:47.959610 [6195 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/01/13 Mon 22:18:47.959638 [6195 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959666 [6195 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959695 [6195 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959723 [6195 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/01/13 Mon 22:18:47.959753 [6195 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/01/13 Mon 22:18:47.959780 [6195 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/01/13 Mon 22:18:47.959808 [6195 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/01/13 Mon 22:18:47.959835 [6195 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959862 [6195 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959889 [6195 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959916 [6195 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959943 [6195 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959970 [6195 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.959997 [6195 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/01/13 Mon 22:18:47.960024 [6195 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960051 [6195 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960079 [6195 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/01/13 Mon 22:18:47.960106 [6195 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/01/13 Mon 22:18:47.960133 [6195 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/01/13 Mon 22:18:47.960171 [6195 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/01/13 Mon 22:18:47.960198 [6195 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/01/13 Mon 22:18:47.960225 [6195 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960255 [6195 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/01/13 Mon 22:18:47.960282 [6195 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/01/13 Mon 22:18:47.960309 [6195 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/01/13 Mon 22:18:47.960336 [6195 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960363 [6195 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960390 [6195 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960418 [6195 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960445 [6195 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960472 [6195 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960504 [6195 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960532 [6195 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/01/13 Mon 22:18:47.960559 [6195 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/01/13 Mon 22:18:47.960586 [6195 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960613 [6195 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960641 [6195 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/01/13 Mon 22:18:47.960665 [6195 10739128][VERB] Filter done.
+2025/01/13 Mon 22:18:47.961391 [6195 10739128][INFO] Generate target: Clash
+2025/01/13 Mon 22:18:47.991982 [6195 10739128][INFO] Generate completed.
+2025/01/13 Mon 22:18:47.996217 [6195 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/01/13 Mon 22:18:47.996297 [6195 10739128][INFO] Generating artifact 'test_profile'...
+2025/01/13 Mon 22:18:47.996369 [6195 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/01/13 Mon 22:18:47.996456 [6195 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/01/13 Mon 22:18:47.996734 [6195 10739128][VERB] Imported 0 item(s).
+2025/01/13 Mon 22:18:47.996801 [6195 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/01/13 Mon 22:18:47.998247 [6195 10739128][VERB] Received Link.
+2025/01/13 Mon 22:18:47.998458 [6195 10739128][INFO] Generate target: Clash
+2025/01/13 Mon 22:18:48.015823 [6195 10739128][INFO] Generate completed.
+2025/01/13 Mon 22:18:48.016994 [6195 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/01/13 Mon 22:18:48.017095 [6195 10739128][INFO] All artifact generated. Exiting...
+2025/01/14 Tue 21:11:36.021221 [3291 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/01/14 Tue 21:11:36.029823 [3291 10739128][INFO] Reading preference settings...
+2025/01/14 Tue 21:11:36.051062 [3291 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/01/14 Tue 21:11:36.052952 [3291 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/01/14 Tue 21:11:36.053961 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/01/14 Tue 21:11:36.056964 [3291 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/01/14 Tue 21:11:36.060556 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/01/14 Tue 21:11:36.062294 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/01/14 Tue 21:11:36.064724 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/01/14 Tue 21:11:36.065670 [3291 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/01/14 Tue 21:11:36.072548 [3291 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/01/14 Tue 21:11:36.074007 [3291 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/01/14 Tue 21:11:36.074909 [3291 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/01/14 Tue 21:11:36.075761 [3291 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/01/14 Tue 21:11:36.076663 [3291 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/01/14 Tue 21:11:36.077633 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/01/14 Tue 21:11:36.080029 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/01/14 Tue 21:11:36.080980 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/01/14 Tue 21:11:36.082579 [3291 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/01/14 Tue 21:11:36.083503 [3291 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/01/14 Tue 21:11:36.084381 [3291 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/01/14 Tue 21:11:36.084446 [3291 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/01/14 Tue 21:11:36.084541 [3291 10739128][INFO] Reading generator configuration...
+2025/01/14 Tue 21:11:36.085314 [3291 10739128][INFO] Read generator configuration completed.
+
+2025/01/14 Tue 21:11:36.085337 [3291 10739128][INFO] Generating all artifacts...
+2025/01/14 Tue 21:11:36.085357 [3291 10739128][INFO] Generating artifact 'test'...
+2025/01/14 Tue 21:11:36.085428 [3291 10739128][VERB] Imported 0 item(s).
+2025/01/14 Tue 21:11:36.085494 [3291 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/01/14 Tue 21:11:36.087029 [3291 10739128][VERB] Received Link.
+2025/01/14 Tue 21:11:36.087091 [3291 10739128][VERB] Parsing configuration file data...
+2025/01/14 Tue 21:11:36.092089 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092139 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092162 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092185 [3291 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/01/14 Tue 21:11:36.092207 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092229 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092251 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092273 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092295 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092318 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092340 [3291 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/01/14 Tue 21:11:36.092362 [3291 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/01/14 Tue 21:11:36.092384 [3291 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/01/14 Tue 21:11:36.092407 [3291 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092435 [3291 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092462 [3291 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092489 [3291 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/01/14 Tue 21:11:36.092511 [3291 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/01/14 Tue 21:11:36.092583 [3291 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/01/14 Tue 21:11:36.092615 [3291 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/01/14 Tue 21:11:36.092646 [3291 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092673 [3291 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092695 [3291 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092718 [3291 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092740 [3291 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092762 [3291 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092784 [3291 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/01/14 Tue 21:11:36.092806 [3291 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092828 [3291 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.092870 [3291 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/01/14 Tue 21:11:36.092901 [3291 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/01/14 Tue 21:11:36.092931 [3291 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/01/14 Tue 21:11:36.092954 [3291 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/01/14 Tue 21:11:36.092976 [3291 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/01/14 Tue 21:11:36.093001 [3291 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093023 [3291 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/01/14 Tue 21:11:36.093045 [3291 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/01/14 Tue 21:11:36.093067 [3291 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/01/14 Tue 21:11:36.093089 [3291 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093111 [3291 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093133 [3291 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093156 [3291 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093177 [3291 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093199 [3291 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093222 [3291 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093245 [3291 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/01/14 Tue 21:11:36.093267 [3291 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/01/14 Tue 21:11:36.093288 [3291 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093310 [3291 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093333 [3291 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/01/14 Tue 21:11:36.093351 [3291 10739128][VERB] Filter done.
+2025/01/14 Tue 21:11:36.094131 [3291 10739128][INFO] Generate target: Clash
+2025/01/14 Tue 21:11:36.128371 [3291 10739128][INFO] Generate completed.
+2025/01/14 Tue 21:11:36.129745 [3291 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/01/14 Tue 21:11:36.129802 [3291 10739128][INFO] Generating artifact 'test_profile'...
+2025/01/14 Tue 21:11:36.131909 [3291 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/01/14 Tue 21:11:36.131967 [3291 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/01/14 Tue 21:11:36.132079 [3291 10739128][VERB] Imported 0 item(s).
+2025/01/14 Tue 21:11:36.132133 [3291 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/01/14 Tue 21:11:36.133632 [3291 10739128][VERB] Received Link.
+2025/01/14 Tue 21:11:36.133804 [3291 10739128][INFO] Generate target: Clash
+2025/01/14 Tue 21:11:36.151627 [3291 10739128][INFO] Generate completed.
+2025/01/14 Tue 21:11:36.152632 [3291 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/01/14 Tue 21:11:36.152686 [3291 10739128][INFO] All artifact generated. Exiting...
+2025/01/21 Tue 21:51:19.796963 [140941 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/01/21 Tue 21:51:19.799198 [140941 10739128][INFO] Reading preference settings...
+2025/01/21 Tue 21:51:19.822805 [140941 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/01/21 Tue 21:51:19.824451 [140941 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/01/21 Tue 21:51:19.825326 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/01/21 Tue 21:51:19.828300 [140941 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/01/21 Tue 21:51:19.831878 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/01/21 Tue 21:51:19.833490 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/01/21 Tue 21:51:19.835847 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/01/21 Tue 21:51:19.836763 [140941 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/01/21 Tue 21:51:19.841153 [140941 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/01/21 Tue 21:51:19.842048 [140941 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/01/21 Tue 21:51:19.842897 [140941 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/01/21 Tue 21:51:19.843762 [140941 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/01/21 Tue 21:51:19.844598 [140941 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/01/21 Tue 21:51:19.845408 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/01/21 Tue 21:51:19.847687 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/01/21 Tue 21:51:19.848973 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/01/21 Tue 21:51:19.850565 [140941 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/01/21 Tue 21:51:19.851552 [140941 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/01/21 Tue 21:51:19.852724 [140941 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/01/21 Tue 21:51:19.852801 [140941 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/01/21 Tue 21:51:19.852880 [140941 10739128][INFO] Reading generator configuration...
+2025/01/21 Tue 21:51:19.853728 [140941 10739128][INFO] Read generator configuration completed.
+
+2025/01/21 Tue 21:51:19.853767 [140941 10739128][INFO] Generating all artifacts...
+2025/01/21 Tue 21:51:19.853796 [140941 10739128][INFO] Generating artifact 'test'...
+2025/01/21 Tue 21:51:19.853894 [140941 10739128][VERB] Imported 0 item(s).
+2025/01/21 Tue 21:51:19.853981 [140941 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/01/21 Tue 21:51:19.855729 [140941 10739128][VERB] Received Link.
+2025/01/21 Tue 21:51:19.855774 [140941 10739128][VERB] Parsing configuration file data...
+2025/01/21 Tue 21:51:19.861917 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.861962 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.861985 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862007 [140941 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/01/21 Tue 21:51:19.862029 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862050 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862072 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862093 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862114 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862136 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862157 [140941 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/01/21 Tue 21:51:19.862179 [140941 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/01/21 Tue 21:51:19.862200 [140941 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/01/21 Tue 21:51:19.862222 [140941 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862249 [140941 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862278 [140941 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862301 [140941 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/01/21 Tue 21:51:19.862323 [140941 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/01/21 Tue 21:51:19.862344 [140941 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/01/21 Tue 21:51:19.862366 [140941 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/01/21 Tue 21:51:19.862387 [140941 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862409 [140941 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862430 [140941 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862452 [140941 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862473 [140941 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862495 [140941 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862525 [140941 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/01/21 Tue 21:51:19.862546 [140941 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862568 [140941 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862595 [140941 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/01/21 Tue 21:51:19.862616 [140941 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/01/21 Tue 21:51:19.862638 [140941 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/01/21 Tue 21:51:19.862659 [140941 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/01/21 Tue 21:51:19.862680 [140941 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/01/21 Tue 21:51:19.862702 [140941 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862724 [140941 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/01/21 Tue 21:51:19.862745 [140941 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/01/21 Tue 21:51:19.862766 [140941 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/01/21 Tue 21:51:19.862788 [140941 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862810 [140941 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862831 [140941 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862853 [140941 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862875 [140941 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862896 [140941 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862918 [140941 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.862940 [140941 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/01/21 Tue 21:51:19.862962 [140941 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/01/21 Tue 21:51:19.862983 [140941 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.863004 [140941 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.863026 [140941 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/01/21 Tue 21:51:19.863044 [140941 10739128][VERB] Filter done.
+2025/01/21 Tue 21:51:19.863688 [140941 10739128][INFO] Generate target: Clash
+2025/01/21 Tue 21:51:19.896086 [140941 10739128][INFO] Generate completed.
+2025/01/21 Tue 21:51:19.896777 [140941 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/01/21 Tue 21:51:19.896805 [140941 10739128][INFO] Generating artifact 'test_profile'...
+2025/01/21 Tue 21:51:19.899033 [140941 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/01/21 Tue 21:51:19.899077 [140941 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/01/21 Tue 21:51:19.899172 [140941 10739128][VERB] Imported 0 item(s).
+2025/01/21 Tue 21:51:19.899215 [140941 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/01/21 Tue 21:51:19.900353 [140941 10739128][VERB] Received Link.
+2025/01/21 Tue 21:51:19.900441 [140941 10739128][INFO] Generate target: Clash
+2025/01/21 Tue 21:51:19.916976 [140941 10739128][INFO] Generate completed.
+2025/01/21 Tue 21:51:19.917596 [140941 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/01/21 Tue 21:51:19.917646 [140941 10739128][INFO] All artifact generated. Exiting...
+2025/01/26 Sun 21:36:27.945615 [3482 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/01/26 Sun 21:36:27.954473 [3482 10739128][INFO] Reading preference settings...
+2025/01/26 Sun 21:36:27.975742 [3482 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/01/26 Sun 21:36:27.977488 [3482 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/01/26 Sun 21:36:27.978410 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/01/26 Sun 21:36:27.981486 [3482 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/01/26 Sun 21:36:27.985325 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/01/26 Sun 21:36:27.987053 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/01/26 Sun 21:36:27.989344 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/01/26 Sun 21:36:27.990304 [3482 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/01/26 Sun 21:36:27.994627 [3482 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/01/26 Sun 21:36:27.995494 [3482 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/01/26 Sun 21:36:27.996373 [3482 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/01/26 Sun 21:36:27.997202 [3482 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/01/26 Sun 21:36:27.998028 [3482 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/01/26 Sun 21:36:27.998875 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/01/26 Sun 21:36:28.001221 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/01/26 Sun 21:36:28.002226 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/01/26 Sun 21:36:28.003827 [3482 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/01/26 Sun 21:36:28.004855 [3482 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/01/26 Sun 21:36:28.005761 [3482 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/01/26 Sun 21:36:28.005838 [3482 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/01/26 Sun 21:36:28.005909 [3482 10739128][INFO] Reading generator configuration...
+2025/01/26 Sun 21:36:28.006714 [3482 10739128][INFO] Read generator configuration completed.
+
+2025/01/26 Sun 21:36:28.006739 [3482 10739128][INFO] Generating all artifacts...
+2025/01/26 Sun 21:36:28.006760 [3482 10739128][INFO] Generating artifact 'test'...
+2025/01/26 Sun 21:36:28.006832 [3482 10739128][VERB] Imported 0 item(s).
+2025/01/26 Sun 21:36:28.006976 [3482 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/01/26 Sun 21:36:28.008410 [3482 10739128][VERB] Received Link.
+2025/01/26 Sun 21:36:28.008472 [3482 10739128][VERB] Parsing configuration file data...
+2025/01/26 Sun 21:36:28.013540 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.013601 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013624 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013647 [3482 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/01/26 Sun 21:36:28.013669 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013691 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013713 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013734 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013756 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013778 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013800 [3482 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/01/26 Sun 21:36:28.013822 [3482 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/01/26 Sun 21:36:28.013843 [3482 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/01/26 Sun 21:36:28.013866 [3482 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.013891 [3482 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.013914 [3482 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.013936 [3482 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/01/26 Sun 21:36:28.013957 [3482 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/01/26 Sun 21:36:28.013989 [3482 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/01/26 Sun 21:36:28.014012 [3482 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/01/26 Sun 21:36:28.014034 [3482 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014056 [3482 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014078 [3482 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014100 [3482 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014122 [3482 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014144 [3482 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014166 [3482 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/01/26 Sun 21:36:28.014188 [3482 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014210 [3482 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014232 [3482 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/01/26 Sun 21:36:28.014254 [3482 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/01/26 Sun 21:36:28.014276 [3482 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/01/26 Sun 21:36:28.014298 [3482 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/01/26 Sun 21:36:28.014337 [3482 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/01/26 Sun 21:36:28.014359 [3482 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014385 [3482 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/01/26 Sun 21:36:28.014407 [3482 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/01/26 Sun 21:36:28.014429 [3482 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/01/26 Sun 21:36:28.014451 [3482 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014473 [3482 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014495 [3482 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014518 [3482 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014540 [3482 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014561 [3482 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014584 [3482 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014606 [3482 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/01/26 Sun 21:36:28.014628 [3482 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/01/26 Sun 21:36:28.014650 [3482 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014672 [3482 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014694 [3482 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/01/26 Sun 21:36:28.014712 [3482 10739128][VERB] Filter done.
+2025/01/26 Sun 21:36:28.015540 [3482 10739128][INFO] Generate target: Clash
+2025/01/26 Sun 21:36:28.047797 [3482 10739128][INFO] Generate completed.
+2025/01/26 Sun 21:36:28.051653 [3482 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/01/26 Sun 21:36:28.051700 [3482 10739128][INFO] Generating artifact 'test_profile'...
+2025/01/26 Sun 21:36:28.053194 [3482 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/01/26 Sun 21:36:28.053244 [3482 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/01/26 Sun 21:36:28.053348 [3482 10739128][VERB] Imported 0 item(s).
+2025/01/26 Sun 21:36:28.053404 [3482 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/01/26 Sun 21:36:28.054625 [3482 10739128][VERB] Received Link.
+2025/01/26 Sun 21:36:28.054793 [3482 10739128][INFO] Generate target: Clash
+2025/01/26 Sun 21:36:28.072443 [3482 10739128][INFO] Generate completed.
+2025/01/26 Sun 21:36:28.073661 [3482 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/01/26 Sun 21:36:28.073733 [3482 10739128][INFO] All artifact generated. Exiting...
+2025/01/28 Tue 20:38:40.673562 [3164 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/01/28 Tue 20:38:40.677500 [3164 10739128][INFO] Reading preference settings...
+2025/01/28 Tue 20:38:40.697704 [3164 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/01/28 Tue 20:38:40.699325 [3164 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/01/28 Tue 20:38:40.700205 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/01/28 Tue 20:38:40.703423 [3164 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/01/28 Tue 20:38:40.707044 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/01/28 Tue 20:38:40.708642 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/01/28 Tue 20:38:40.710837 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/01/28 Tue 20:38:40.711698 [3164 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 20:38:40.715892 [3164 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 20:38:40.716722 [3164 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 20:38:40.717495 [3164 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 20:38:40.718256 [3164 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 20:38:40.719027 [3164 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 20:38:40.719787 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/01/28 Tue 20:38:40.721938 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/01/28 Tue 20:38:40.722818 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/01/28 Tue 20:38:40.724299 [3164 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/01/28 Tue 20:38:40.725137 [3164 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/01/28 Tue 20:38:40.725921 [3164 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/01/28 Tue 20:38:40.725980 [3164 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/01/28 Tue 20:38:40.726041 [3164 10739128][INFO] Reading generator configuration...
+2025/01/28 Tue 20:38:40.726789 [3164 10739128][INFO] Read generator configuration completed.
+
+2025/01/28 Tue 20:38:40.726811 [3164 10739128][INFO] Generating all artifacts...
+2025/01/28 Tue 20:38:40.726832 [3164 10739128][INFO] Generating artifact 'test'...
+2025/01/28 Tue 20:38:40.726926 [3164 10739128][VERB] Imported 0 item(s).
+2025/01/28 Tue 20:38:40.726997 [3164 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/01/28 Tue 20:38:40.728319 [3164 10739128][VERB] Received Link.
+2025/01/28 Tue 20:38:40.728365 [3164 10739128][VERB] Parsing configuration file data...
+2025/01/28 Tue 20:38:40.732663 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.732706 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732728 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732750 [3164 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/01/28 Tue 20:38:40.732772 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732794 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732815 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732836 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732867 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732899 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732921 [3164 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/01/28 Tue 20:38:40.732942 [3164 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/01/28 Tue 20:38:40.732963 [3164 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/01/28 Tue 20:38:40.732986 [3164 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733008 [3164 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733032 [3164 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733054 [3164 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/01/28 Tue 20:38:40.733075 [3164 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/01/28 Tue 20:38:40.733097 [3164 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/01/28 Tue 20:38:40.733118 [3164 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/01/28 Tue 20:38:40.733140 [3164 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733161 [3164 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733183 [3164 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733204 [3164 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733226 [3164 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733248 [3164 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733269 [3164 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/01/28 Tue 20:38:40.733290 [3164 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733312 [3164 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733334 [3164 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/01/28 Tue 20:38:40.733355 [3164 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/01/28 Tue 20:38:40.733376 [3164 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/01/28 Tue 20:38:40.733398 [3164 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/01/28 Tue 20:38:40.733420 [3164 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/01/28 Tue 20:38:40.733442 [3164 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733463 [3164 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/01/28 Tue 20:38:40.733484 [3164 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/01/28 Tue 20:38:40.733506 [3164 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/01/28 Tue 20:38:40.733527 [3164 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733551 [3164 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733573 [3164 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733595 [3164 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733620 [3164 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733642 [3164 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733664 [3164 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733686 [3164 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/01/28 Tue 20:38:40.733708 [3164 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/01/28 Tue 20:38:40.733729 [3164 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733751 [3164 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733773 [3164 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/01/28 Tue 20:38:40.733791 [3164 10739128][VERB] Filter done.
+2025/01/28 Tue 20:38:40.734432 [3164 10739128][INFO] Generate target: Clash
+2025/01/28 Tue 20:38:40.764153 [3164 10739128][INFO] Generate completed.
+2025/01/28 Tue 20:38:40.767449 [3164 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/01/28 Tue 20:38:40.767488 [3164 10739128][INFO] Generating artifact 'test_profile'...
+2025/01/28 Tue 20:38:40.768918 [3164 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/01/28 Tue 20:38:40.768959 [3164 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/01/28 Tue 20:38:40.769055 [3164 10739128][VERB] Imported 0 item(s).
+2025/01/28 Tue 20:38:40.769098 [3164 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/01/28 Tue 20:38:40.770240 [3164 10739128][VERB] Received Link.
+2025/01/28 Tue 20:38:40.770358 [3164 10739128][INFO] Generate target: Clash
+2025/01/28 Tue 20:38:40.786565 [3164 10739128][INFO] Generate completed.
+2025/01/28 Tue 20:38:40.787327 [3164 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/01/28 Tue 20:38:40.787395 [3164 10739128][INFO] All artifact generated. Exiting...
+2025/01/28 Tue 23:51:12.075438 [7149 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/01/28 Tue 23:51:12.081838 [7149 10739128][INFO] Reading preference settings...
+2025/01/28 Tue 23:51:12.103591 [7149 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/01/28 Tue 23:51:12.105189 [7149 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/01/28 Tue 23:51:12.106044 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/01/28 Tue 23:51:12.108887 [7149 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/01/28 Tue 23:51:12.111936 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/01/28 Tue 23:51:12.113514 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/01/28 Tue 23:51:12.115769 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/01/28 Tue 23:51:12.116988 [7149 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 23:51:12.121291 [7149 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 23:51:12.122085 [7149 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 23:51:12.122845 [7149 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 23:51:12.123616 [7149 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 23:51:12.124417 [7149 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/01/28 Tue 23:51:12.125189 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/01/28 Tue 23:51:12.127357 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/01/28 Tue 23:51:12.128381 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/01/28 Tue 23:51:12.129866 [7149 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/01/28 Tue 23:51:12.130923 [7149 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/01/28 Tue 23:51:12.131706 [7149 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/01/28 Tue 23:51:12.131756 [7149 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/01/28 Tue 23:51:12.131817 [7149 10739128][INFO] Reading generator configuration...
+2025/01/28 Tue 23:51:12.132581 [7149 10739128][INFO] Read generator configuration completed.
+
+2025/01/28 Tue 23:51:12.132608 [7149 10739128][INFO] Generating all artifacts...
+2025/01/28 Tue 23:51:12.132627 [7149 10739128][INFO] Generating artifact 'test'...
+2025/01/28 Tue 23:51:12.132694 [7149 10739128][VERB] Imported 0 item(s).
+2025/01/28 Tue 23:51:12.132761 [7149 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/01/28 Tue 23:51:12.134010 [7149 10739128][VERB] Received Link.
+2025/01/28 Tue 23:51:12.134056 [7149 10739128][VERB] Parsing configuration file data...
+2025/01/28 Tue 23:51:12.138575 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.138623 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138646 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138668 [7149 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/01/28 Tue 23:51:12.138690 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138712 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138733 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138755 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138776 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138800 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138821 [7149 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/01/28 Tue 23:51:12.138843 [7149 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/01/28 Tue 23:51:12.138864 [7149 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/01/28 Tue 23:51:12.138887 [7149 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.138909 [7149 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.138931 [7149 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.138973 [7149 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/01/28 Tue 23:51:12.138998 [7149 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/01/28 Tue 23:51:12.139020 [7149 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/01/28 Tue 23:51:12.139042 [7149 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/01/28 Tue 23:51:12.139064 [7149 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139086 [7149 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139107 [7149 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139129 [7149 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139152 [7149 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139173 [7149 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139195 [7149 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/01/28 Tue 23:51:12.139217 [7149 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139239 [7149 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139280 [7149 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/01/28 Tue 23:51:12.139311 [7149 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/01/28 Tue 23:51:12.139333 [7149 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/01/28 Tue 23:51:12.139355 [7149 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/01/28 Tue 23:51:12.139380 [7149 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/01/28 Tue 23:51:12.139409 [7149 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139430 [7149 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/01/28 Tue 23:51:12.139452 [7149 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/01/28 Tue 23:51:12.139473 [7149 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/01/28 Tue 23:51:12.139498 [7149 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139520 [7149 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139542 [7149 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139564 [7149 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139586 [7149 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139608 [7149 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139630 [7149 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139654 [7149 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/01/28 Tue 23:51:12.139676 [7149 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/01/28 Tue 23:51:12.139698 [7149 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139719 [7149 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139741 [7149 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/01/28 Tue 23:51:12.139763 [7149 10739128][VERB] Filter done.
+2025/01/28 Tue 23:51:12.140410 [7149 10739128][INFO] Generate target: Clash
+2025/01/28 Tue 23:51:12.171461 [7149 10739128][INFO] Generate completed.
+2025/01/28 Tue 23:51:12.173125 [7149 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/01/28 Tue 23:51:12.173164 [7149 10739128][INFO] Generating artifact 'test_profile'...
+2025/01/28 Tue 23:51:12.175342 [7149 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/01/28 Tue 23:51:12.175389 [7149 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/01/28 Tue 23:51:12.175486 [7149 10739128][VERB] Imported 0 item(s).
+2025/01/28 Tue 23:51:12.175531 [7149 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/01/28 Tue 23:51:12.176626 [7149 10739128][VERB] Received Link.
+2025/01/28 Tue 23:51:12.176749 [7149 10739128][INFO] Generate target: Clash
+2025/01/28 Tue 23:51:12.193679 [7149 10739128][INFO] Generate completed.
+2025/01/28 Tue 23:51:12.194383 [7149 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/01/28 Tue 23:51:12.194415 [7149 10739128][INFO] All artifact generated. Exiting...
+2025/02/04 Tue 21:37:20.843296 [3753 10739128][INFO] SubConverter v0.7.2 starting up..
+\033]0;SubConverter v0.7.2\007\c
+2025/02/04 Tue 21:37:20.854535 [3753 10739128][INFO] Reading preference settings...
+2025/02/04 Tue 21:37:20.874485 [3753 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/02/04 Tue 21:37:20.876098 [3753 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/02/04 Tue 21:37:20.876992 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/02/04 Tue 21:37:20.879829 [3753 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/02/04 Tue 21:37:20.883058 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/02/04 Tue 21:37:20.884589 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/02/04 Tue 21:37:20.886749 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/02/04 Tue 21:37:20.887607 [3753 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/02/04 Tue 21:37:20.891752 [3753 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/02/04 Tue 21:37:20.892546 [3753 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/02/04 Tue 21:37:20.893323 [3753 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/02/04 Tue 21:37:20.894107 [3753 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/02/04 Tue 21:37:20.894924 [3753 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/02/04 Tue 21:37:20.895926 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/02/04 Tue 21:37:20.898225 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/02/04 Tue 21:37:20.899102 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/02/04 Tue 21:37:20.900576 [3753 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/02/04 Tue 21:37:20.901446 [3753 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/02/04 Tue 21:37:20.902233 [3753 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/02/04 Tue 21:37:20.902290 [3753 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/02/04 Tue 21:37:20.902351 [3753 10739128][INFO] Reading generator configuration...
+2025/02/04 Tue 21:37:20.903089 [3753 10739128][INFO] Read generator configuration completed.
+
+2025/02/04 Tue 21:37:20.903110 [3753 10739128][INFO] Generating all artifacts...
+2025/02/04 Tue 21:37:20.903129 [3753 10739128][INFO] Generating artifact 'test'...
+2025/02/04 Tue 21:37:20.903193 [3753 10739128][VERB] Imported 0 item(s).
+2025/02/04 Tue 21:37:20.903260 [3753 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/02/04 Tue 21:37:20.904487 [3753 10739128][VERB] Received Link.
+2025/02/04 Tue 21:37:20.904541 [3753 10739128][VERB] Parsing configuration file data...
+2025/02/04 Tue 21:37:20.908891 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港综合 - 01- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.908935 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港CMHK - 02- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.908958 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 03- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.908980 [3753 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港原生 - 04  has been added.
+2025/02/04 Tue 21:37:20.909005 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 05- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.909027 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKBN - 06- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.909049 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 07- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.909070 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HGC - 08- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.909092 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港WTT - 09- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.909114 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港HKT - 10- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.909150 [3753 10739128][VERB] Node  V2RayProvider - iGG-HK - 香港原生 - 11- 倍率 0.5  has been added.
+2025/02/04 Tue 21:37:20.909172 [3753 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港 - 12  has been added.
+2025/02/04 Tue 21:37:20.909194 [3753 10739128][VERB] Node  TrojanProvider - iGG-HK - 香港- 13  has been added.
+2025/02/04 Tue 21:37:20.909217 [3753 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京专线- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909239 [3753 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本东京- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909262 [3753 10739128][VERB] Node  V2RayProvider - iGG-JP - 日本大阪- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909284 [3753 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本原生  has been added.
+2025/02/04 Tue 21:37:20.909306 [3753 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本05  has been added.
+2025/02/04 Tue 21:37:20.909329 [3753 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本CN2 - 07  has been added.
+2025/02/04 Tue 21:37:20.909351 [3753 10739128][VERB] Node  TrojanProvider - iGG-JP - 日本大阪 - 08  has been added.
+2025/02/04 Tue 21:37:20.909373 [3753 10739128][VERB] Node  V2RayProvider - iGG-US - 美国CN2 - 01- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909404 [3753 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 02- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909435 [3753 10739128][VERB] Node  V2RayProvider - iGG-US - 纽约 - 03- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909466 [3753 10739128][VERB] Node  V2RayProvider - iGG-US - 圣何塞 - 04- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909500 [3753 10739128][VERB] Node  V2RayProvider - iGG-US - 美国西雅图 - 05- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909542 [3753 10739128][VERB] Node  V2RayProvider - iGG-US - 美国鲨鱼2 - 06- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909565 [3753 10739128][VERB] Node  TrojanProvider - iGG-US - 美国BGP  has been added.
+2025/02/04 Tue 21:37:20.909587 [3753 10739128][VERB] Node  V2RayProvider - iGG-US - 洛杉矶 - 09- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909609 [3753 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾01- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909631 [3753 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾彰化 - 02  has been added.
+2025/02/04 Tue 21:37:20.909655 [3753 10739128][VERB] Node  V2RayProvider - iGG-TW - 台湾专线 - 03- 倍率 1.5  has been added.
+2025/02/04 Tue 21:37:20.909677 [3753 10739128][VERB] Node  TrojanProvider - iGG-TW - 台湾 04  has been added.
+2025/02/04 Tue 21:37:20.909711 [3753 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 01  has been added.
+2025/02/04 Tue 21:37:20.909733 [3753 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 02  has been added.
+2025/02/04 Tue 21:37:20.909755 [3753 10739128][VERB] Node  V2RayProvider - iGG-SG - 新加坡NF 03- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909777 [3753 10739128][VERB] Node  TrojanProvider - iGG-SG - 新加坡 NF04  has been added.
+2025/02/04 Tue 21:37:20.909798 [3753 10739128][VERB] Node  TrojanProvider - iGG-AR - 阿根廷  has been added.
+2025/02/04 Tue 21:37:20.909820 [3753 10739128][VERB] Node  TrojanProvider - iGG-DE - 德国  has been added.
+2025/02/04 Tue 21:37:20.909842 [3753 10739128][VERB] Node  V2RayProvider - iGG-DE - 德国2线- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909863 [3753 10739128][VERB] Node  V2RayProvider - iGG-CA - 加拿大- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909886 [3753 10739128][VERB] Node  V2RayProvider - iGG-AU - 澳大利亚- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909908 [3753 10739128][VERB] Node  V2RayProvider - iGG-IN - 印度孟买- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909929 [3753 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国首尔- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909951 [3753 10739128][VERB] Node  V2RayProvider - iGG-KR - 韩国 02- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909974 [3753 10739128][VERB] Node  V2RayProvider - iGG-TR - 土耳其伊斯坦布尔- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.909998 [3753 10739128][VERB] Node  V2RayProvider - iGG-MY - 马来西亚- 倍率 2  has been added.
+2025/02/04 Tue 21:37:20.910021 [3753 10739128][VERB] Node  V2RayProvider - iGG-FR - 法国巴黎- 倍率 2  has been added.
+2025/02/04 Tue 21:37:20.910043 [3753 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 01- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.910065 [3753 10739128][VERB] Node  V2RayProvider - iGG-UK - 英国 - 02- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.910087 [3753 10739128][VERB] Node  V2RayProvider - iGG-RU - 俄罗斯-莫斯科- 倍率 1  has been added.
+2025/02/04 Tue 21:37:20.910106 [3753 10739128][VERB] Filter done.
+2025/02/04 Tue 21:37:20.910738 [3753 10739128][INFO] Generate target: Clash
+2025/02/04 Tue 21:37:20.940700 [3753 10739128][INFO] Generate completed.
+2025/02/04 Tue 21:37:20.941598 [3753 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/02/04 Tue 21:37:20.941634 [3753 10739128][INFO] Generating artifact 'test_profile'...
+2025/02/04 Tue 21:37:20.943865 [3753 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/02/04 Tue 21:37:20.943904 [3753 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/02/04 Tue 21:37:20.943998 [3753 10739128][VERB] Imported 0 item(s).
+2025/02/04 Tue 21:37:20.944041 [3753 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/02/04 Tue 21:37:20.945191 [3753 10739128][VERB] Received Link.
+2025/02/04 Tue 21:37:20.945322 [3753 10739128][INFO] Generate target: Clash
+2025/02/04 Tue 21:37:20.961466 [3753 10739128][INFO] Generate completed.
+2025/02/04 Tue 21:37:20.962172 [3753 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/02/04 Tue 21:37:20.962204 [3753 10739128][INFO] All artifact generated. Exiting...
